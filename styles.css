@@ -1,0 +1,14 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+#content {
+    margin:10px;
+    border:1px solid black;
+    display:inline-flex;
+}
+
+#controls {
+    margin:10px 30px;
+}
